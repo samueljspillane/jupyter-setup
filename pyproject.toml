@@ -1,0 +1,14 @@
+[project]
+name = "jupyter-setup"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "jupyterlab-code-formatter>=3.0.2",
+    "jupyterlab-git==0.50.2",
+    "jupyterlab-latex>=4.3.0",
+    "jupyterlab-lsp>=5.1.0",
+    "jupyterlab-spellchecker>=0.8.4",
+    "lckr-jupyterlab-variableinspector>=3.2.4",
+]
