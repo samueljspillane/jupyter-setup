@@ -1,4 +1,4 @@
-# Jupyter Notebook Project
+# Jupyter Setup
 
 ## Overview
 This repository contains a Jupyter Notebook environment set up using UV to act as a starting point for projects.
